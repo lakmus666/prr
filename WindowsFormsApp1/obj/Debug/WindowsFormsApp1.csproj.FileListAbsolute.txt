@@ -1,0 +1,41 @@
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LichAdd.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GrafAdd.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DolAdd.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OklAdd.resources
+C:\Users\vilyu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DogAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Add.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DogAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DolAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GrafAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LichAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.OklAdd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Search.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.timeadd.resources
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vilyu\OneDrive\Рабочий стол\Учеба\3 курс\1 сем\курсовой проект\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.timedell.resources
